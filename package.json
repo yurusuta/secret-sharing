@@ -1,0 +1,17 @@
+{
+  "name": "secret-sharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "shamirs-secret-sharing-ts": "^1.0.2",
+    "ts-node": "^10.9.2"
+  }
+}
